@@ -1,10 +1,10 @@
-# Sylvain Simao―@maoosi
+# 🤖―@maoosi
 
 >> 👋 Hey! I’m Sylvain Simao, CTO @Travis. Most of my experience is at the overlap of technology and creative thinking 🤯. You can see some of my work for Airbnb, MARS, Amazon and many other clients on [my personal website](https://sylvainsimao.fr).
 
-## 🥾 Travis Travis?
+## 🥾 What's Travis?
 
-[Travis](https://travistravis.co) is an early stage Startup and we are currently building a product that focuses on **supercharged storytelling for travel 🧳**. Why supercharged? Because in addition to making it fun for people to create, share and discover authentic travel stories, we also want to make it easy to plan your next trip from the stories that 🧙 inspire you.
+**[Travis](https://travistravis.co)** is an early stage Startup and we are currently building a product that focuses on **supercharged storytelling for travel 🧳**. Why supercharged? Because in addition to making it fun for people to create, share and discover authentic travel stories, we also want to make it easy to plan your next trip from the stories that 🧙 inspire you.
 
 *Curious? You can visit [travistravis.co](https://travistravis.co) and join the waitlist.*
 
@@ -15,4 +15,4 @@ I'm very experienced at **leading technical teams**, **designing scalable soluti
 ## 👾 Technology Stack
 
 - **CORE:** JavaScript  •  TypeScript  •  Node.js  •  Amazon AWS  •  Html5  •  Sass  •  Vue.js  •  GraphQL  •  MySQL  •  WebGL
-- **LEARNING:** Rust / WebAssembly / Blender
+- **LEARNING:** Rust  •  WebAssembly  •  Blender
