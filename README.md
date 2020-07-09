@@ -8,7 +8,7 @@
 
 ### 🦾 Areas of Expertise
 
-I'm very experienced at **leading technical teams**, **designing scalable solutions** for global rollouts, as well as **building digital experiences** that combine usability and creativity.
+I'm very experienced at **leading technical teams**, **designing scalable solutions** for global rollouts, as well as **building digital experiences** that combine usability and creativity. Before joining Travis as CTO, I was Technical Director at [Clemenger BBDO](https://www.clemengerbbdo.com.au/).
 
 ### 👾 Technology Stack
 
