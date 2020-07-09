@@ -4,9 +4,9 @@
 
 ## 🥾 What's Travis?
 
-**[Travis](https://travistravis.co)** is an early stage Startup and we are currently building a product that focuses on **supercharged storytelling for travel 🧳**. Why supercharged? Because in addition to making it fun for people to create, share and discover authentic travel stories, we also want to make it easy to plan your next trip from the stories that 🧙 inspire you.
+**[Travis](https://travistravis.co)** is an early stage Startup and we are currently building a product that focuses on **supercharged storytelling for travel 🧳**. 
 
-*Curious? You can visit [travistravis.co](https://travistravis.co) and join the waitlist.*
+Why supercharged? Because in addition to making it fun for people to create, share and discover authentic travel stories, we also want to make it easy to plan your next trip from the stories that 🧙 inspire you.
 
 ## 🦾 Areas of Expertise
 
@@ -14,5 +14,5 @@ I'm very experienced at **leading technical teams**, **designing scalable soluti
 
 ## 👾 Technology Stack
 
-- **CORE:** JavaScript  •  TypeScript  •  Node.js  •  Amazon AWS  •  Html5  •  Sass  •  Vue.js  •  GraphQL  •  MySQL  •  WebGL
+- **CORE:** TypeScript  •  Node.js  •  AWS  •  Html5  •  Sass  •  Vue.js  •  GraphQL  •  MySQL  •  WebGL
 - **LEARNING:** Rust  •  WebAssembly  •  Blender
