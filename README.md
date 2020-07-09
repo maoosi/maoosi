@@ -1,10 +1,6 @@
 # Sylvain Simao―@maoosi
 
-> 👋 Hey! I’m Sylvain Simao, CTO @Travis.
-
-Most of my experience is at the overlap of technology and creative thinking 🤯. You can see some of my work for Airbnb, MARS, Amazon and many other clients on [my personal website](https://sylvainsimao.fr).
-
-I have strong expertise in **leading technical teams**, **designing scalable solutions** for global rollouts, as well as **building digital experiences** that combine usability and creativity. On my spare time, I like to explore new things through side projects ⚡ and open-source libraries. I also regularly talk about Vue.js and I've been co-organising the Melbourne Vue.js meetup for the past 2 years.
+>> 👋 Hey! I’m Sylvain Simao, CTO @Travis. Most of my experience is at the overlap of technology and creative thinking 🤯. You can see some of my work for Airbnb, MARS, Amazon and many other clients on [my personal website](https://sylvainsimao.fr).
 
 ## 🥾 Travis Travis?
 
@@ -12,8 +8,11 @@ I have strong expertise in **leading technical teams**, **designing scalable sol
 
 *Curious? You can visit [travistravis.co](https://travistravis.co) and join the waitlist.*
 
-## 👾👾👾
+## 🦾 Areas of Expertise
 
-- **Tech. stack:** Html5 / Sass / Vue.js / TypeScript / GSAP / Babylon.js / PixiJS / Node.js / GraphQL / Amazon AWS / MySQL
-- **Favorites tools:** Figma / VS Code / GitKraken / TablePlus / ResponsivelyApp / DrawSQL / Grammarly / Hey.com
-- **Learning:** Rust / WebAssembly / Blender
+I'm very experienced at **leading technical teams**, **designing scalable solutions** for global rollouts, as well as **building digital experiences** that combine usability and creativity.
+
+## 👾 Technology Stack
+
+- **CORE:** JavaScript  •  TypeScript  •  Node.js  •  Amazon AWS  •  Html5  •  Sass  •  Vue.js  •  GraphQL  •  MySQL  •  WebGL
+- **LEARNING:** Rust / WebAssembly / Blender
