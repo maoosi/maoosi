@@ -14,3 +14,7 @@ I'm very experienced at **leading technical teams**, **designing scalable soluti
 
 - **CORE:** TypeScript  •  Node.js  •  AWS  •  Html5  •  Sass  •  Vue.js  •  GraphQL  •  MySQL  •  WebGL
 - **LEARNING:** Rust  •  WebAssembly  •  Blender
+
+## 🙊 Wanna chat?
+
+👉 @ me on [Twitter](https://twitter.com/_maoosi), or [send me an email](https://sylvainsimao.fr/contact).
