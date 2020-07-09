@@ -4,9 +4,7 @@
 
 ## 🥾 What's Travis?
 
-**[Travis](https://travistravis.co)** is an early stage Startup and we are currently building a product that focuses on **supercharged storytelling for travel 🧳**. 
-
-Why supercharged? Because in addition to making it fun for people to create, share and discover authentic travel stories, we also want to make it easy to plan your next trip from the stories that 🧙 inspire you.
+**[Travis](https://travistravis.co)** is an early stage Startup and we are currently building a product that focuses on **supercharged storytelling for travel 🧳**. Why supercharged? Because in addition to making it fun for people to create, share and discover authentic travel stories, we also want to make it easy to plan your next trip from the stories that 🧙 inspire you.
 
 ## 🦾 Areas of Expertise
 
