@@ -1,6 +1,6 @@
 # 🤖―@maoosi
 
-> 👋 Hey! I’m Sylvain Simao, CTO @Travis. Most of my experience is at the overlap of technology and creative thinking 🤯. You can see some of my work for Airbnb, MARS, Amazon and many other clients on [my personal website](https://sylvainsimao.fr).
+> 🖖 Hey! I’m Sylvain Simao, CTO @Travis. Most of my experience is at the overlap of technology and creative thinking 🤯. You can see some of my work for Airbnb, MARS, Amazon and many other clients on [my personal website](https://sylvainsimao.fr).
 
 ## 🥾 What's Travis?
 
@@ -17,4 +17,4 @@ I'm very experienced at **leading technical teams**, **designing scalable soluti
 
 ## 🙊 Wanna chat?
 
-👉 @ me on [Twitter](https://twitter.com/_maoosi), or [send me an email](https://sylvainsimao.fr/contact).
+@ me on [Twitter](https://twitter.com/_maoosi), or [send me an email](https://sylvainsimao.fr/contact). 
