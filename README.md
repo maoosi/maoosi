@@ -6,6 +6,6 @@ Most of my experience is at the overlap of technology and creative thinking 🤯
 
 On my spare time, I like to explore new things through side projects ⚡ and open-source libraries. I also regularly talk about Vue.js and I've been co-organising the Melbourne Vue.js meetup for the past 2 years.
 
-- Tech. stack: Html5 / Sass / Vue.js / TypeScript / GSAP / Babylon.js / PixiJS / Node.js / GraphQL / Amazon AWS / MySQL
-- Favorites tools: Figma / VS Code / GitKraken / TablePlus / ResponsivelyApp / DrawSQL / Grammarly / Hey.com
-- Learning: Rust / WebAssembly / Blender
+- **Tech. stack:** Html5 / Sass / Vue.js / TypeScript / GSAP / Babylon.js / PixiJS / Node.js / GraphQL / Amazon AWS / MySQL
+- **Favorites tools:** Figma / VS Code / GitKraken / TablePlus / ResponsivelyApp / DrawSQL / Grammarly / Hey.com
+- **Learning:** Rust / WebAssembly / Blender
