@@ -1,20 +1,19 @@
-# 🤖―@maoosi
+# 🖖 Hey!
 
-> 🖖 Hey! I’m Sylvain Simao, CTO @Travis. Most of my experience is at the overlap of technology and creative thinking 🤯. You can see some of my work for Airbnb, MARS, Amazon and many other clients on [my personal website](https://sylvainsimao.fr).
+**I’m Sylvain Simao, CTO @Travis.**
 
-### 🥾 What's Travis?
+### What's Travis?
 
-**[Travis](https://travistravis.co)** is an early stage Startup and we are building a product that focuses on **supercharged storytelling for travel 🧳**. *Why supercharged?* Because in addition to making it fun for people to create, share and discover authentic travel stories, we also want to make it easy to plan your next trip from the stories that 🧙 inspire you.
+[Travis](https://www.travistravis.co) is an early-stage startup based in Melbourne and operating 100% remote.
 
-### 🦾 Areas of Expertise
+We are building a web platform for people around the world to create, share, discover and save authentic travel stories and local experiences. More than just a tool, we aim to create a product that people have fun using, with a real personality and using storytelling at its core.
 
-I'm very experienced at **leading technical teams**, **designing scalable solutions** for global rollouts, as well as **building digital experiences** that combine usability and creativity. Before joining Travis as CTO, I was Technical Director at [Clemenger BBDO](https://www.clemengerbbdo.com.au/).
+### Who am I?
 
-### 👾 Technology Stack
+I am a hands-on technology leader with 12+ years of experience across software development and tech leadership roles, both in France and in Australia. I have strong expertise in driving technology strategy, leading engineering teams, as well as designing and building web applications at scale.
 
-- **CORE:** TypeScript  •  Node.js  •  AWS  •  Html5  •  Sass  •  Vue.js  •  GraphQL  •  MySQL  •  WebGL
-- **LEARNING:** Rust  •  WebAssembly  •  Blender
+Before joining Travis as CTO, I was Technical Director at [Clemenger BBDO](https://www.clemengerbbdo.com.au/). You can see some of my work for Airbnb, MARS, Amazon and many other clients on [my personal website](https://sylvainsimao.fr).
 
-### 🙊 Wanna Chat?
+### Wanna Chat?
 
-@ me on [Twitter](https://twitter.com/_maoosi), message me on [LinkedIn](https://www.linkedin.com/in/sylvainsimao/), or [send me an email](https://sylvainsimao.fr/contact). 
+@ me on [Twitter](https://twitter.com/_maoosi), message me on [LinkedIn](https://www.linkedin.com/in/sylvainsimao/), or [send me an email](https://sylvainsimao.fr/contact).
