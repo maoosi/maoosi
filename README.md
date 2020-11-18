@@ -2,9 +2,7 @@
 
 ### What is Travis?
 
-[Travis](https://www.travistravis.co) is an early-stage startup based in Australia and operating 100% remote.
-
-We are building a web platform for people around the world to create, share, discover and save authentic travel stories and local experiences. More than just a tool, we aim to create a product that people have fun using, with a real personality and using storytelling at its core.
+[Travis](https://www.travistravis.co) is an all-in-one platform where travellers can discover, save, plan trips based on visual travel stories and guides. Like Pinterest, built for travel.
 
 ### My background?
 
