@@ -2,7 +2,7 @@
 
 ### What is Travis?
 
-[Travis](https://www.travistravis.co) is an all-in-one platform where travellers can discover, save, plan trips based on visual travel stories and guides. Like Pinterest, built for travel.
+[Travis](https://www.travistravis.co) is an all-in-one platform to power your next trip. Discover, share and plan based on user-created travel stories. Like Pinterest for travel planning!
 
 ### My background?
 
