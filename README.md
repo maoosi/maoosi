@@ -1,14 +1,13 @@
-# 🖖 I’m Sylvain Simao, CTO @Travis.
+# Hi 🖖 I’m Sylvain (:"seel-vahn")
 
-### What is Travis?
+I am CTO at [Travis](https://travistravis.co), a social platform that makes travel planning visual and collaborative. People from around the world can discover, save and plan trips based on others recommendations and travel guides.
 
-[Travis](https://www.travistravis.co) is an all-in-one platform to power your next trip. Discover, share and plan based on user-created travel stories. Like Pinterest for travel planning!
-
-### My background?
-
-I am a hands-on technology leader with 12+ years of experience across software development and tech leadership roles, both in France and in Australia. I have strong expertise in driving technology strategy, leading engineering teams, as well as designing and building web applications at scale.
-
-Before joining Travis as CTO, I was Technical Director at [Clemenger BBDO](https://www.clemengerbbdo.com.au/). You can see some of my work for Airbnb, MARS, Amazon and many other clients on [my personal website](https://sylvainsimao.fr).
+- 👾 Creator of the Open-Source [Prisma-AppSync](https://prisma-appsync.vercel.app/) generator for ◭ Prisma 2.
+- 🧐 Interested in Full-stack web development `.html`, `.js`, `.postcss`, `.ts`, `.vue`, `.gql`, `.prisma`, `.cdk`.
+- 💬 Co-organizer and main speaker at the Melbourne Vue.js Meetup since 2017.
+- 👨🏽‍💻 Early adopter of technologies like GraphQL, Serverless, AWS CDK, or Vue.
+- ⚡️ Worked on a wide variety of projects with Airbnb, MARS, Amazon and [many other clients](https://sylvainsimao.fr).
+- 🏆 Awarded by Cannes Lions Grand Prix, Global Amazon Alexa Cup, The FWA, Webby Awards.
 
 ### Wanna Chat?
 
