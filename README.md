@@ -1,4 +1,4 @@
-# Hi 🖖 I’m Sylvain (:"seel-vahn")
+# Hi 🖖 I’m Sylvain (:seel-vahn)
 
 I am CTO at [Travis](https://travistravis.co), a social platform that makes travel planning visual and collaborative. People from around the world can discover, save and plan trips based on others recommendations and travel guides.
 
