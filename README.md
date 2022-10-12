@@ -1,6 +1,6 @@
 ### Hi 🖖
 
-I’m Sylvain (:seel-vahn), Creative Engineer with 13+ years experience building things for the web. Creator of the [Prisma-AppSync](https://prisma-appsync.vercel.app/) generator for ◭ Prisma and working at [Travis](https://www.travistravis.co/plan-a-trip).
+I’m Sylvain (:seel-vahn), a Creative Engineer with 13+ years of experience building things for the web. Creator of the [Prisma-AppSync](https://prisma-appsync.vercel.app/) generator for ◭ Prisma and working at [Travis](https://www.travistravis.co/plan-a-trip).
 
 - 👾 Creator of the Open-Source [Prisma-AppSync](https://prisma-appsync.vercel.app/) generator for ◭ Prisma.
 - 🧳 Working at [Travis](https://www.travistravis.co/plan-a-trip) an early-stage startup building a collaborative travel planning app.
