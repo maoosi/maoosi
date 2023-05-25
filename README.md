@@ -13,4 +13,4 @@ I'm Sylvain (:seel-vahn), hands-on technology leader with 14+ years of experienc
 
 ### Wanna Chat?
 
-@ me on [Twitter](https://twitter.com/_maoosi), message me on [LinkedIn](https://www.linkedin.com/in/sylvainsimao/), or [send me an email](https://sylvainsimao.fr/contact). 
+@ me on [Twitter](https://twitter.com/_maoosi), message me on [LinkedIn](https://www.linkedin.com/in/sylvainsimao/), or [send me an email](https://sylvainsimao.com/contact). 
