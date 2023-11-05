@@ -1,8 +1,8 @@
 ### Hi 🖖
 
-I'm Sylvain (:seel-vahn), hands-on CTO and Product Engineer with 14+ years of experience building things for the web. Creator of the open-source ◭ [Prisma-AppSync](https://github.com/maoosi/prisma-appsync) library. Founder at [Kuizto](https://kuizto.co) (launching 2023). Previously CTO at [Travis](https://www.travistravis.co/plan-a-trip); Tech. Director at [Clemenger BBDO](https://www.clemengerbbdo.com.au/).
+I'm Sylvain (:seel-vahn), hands-on CTO and Product Engineer with 14+ years of experience building things for the web. Creator of the open-source ◭ [Prisma-AppSync](https://github.com/maoosi/prisma-appsync) library. Founder at [Kuizto](https://kuizto.co) (launching soon). Previously CTO at [Travis](https://www.travistravis.co/plan-a-trip); Tech. Director at [Clemenger BBDO](https://www.clemengerbbdo.com.au/).
 
-- 🍉 Founder at [Kuizto](https://kuizto.co), like Netflix but for your daily food!
+- 🍉 Founder at [Kuizto](https://kuizto.co), kinda like Spotify or Netflix, but for your daily cooking!
 - ⚡️ Worked on a wide variety of projects with Airbnb, MARS, Amazon and [many other clients](https://sylvainsimao.com).
 - 🧳 Previously CTO at [Travis](https://www.travistravis.co/plan-a-trip) an early-stage startup building a collaborative travel planning app.
 - 👨🏽‍💻 Interested in Full-stack web dev `.html`, `.js`, `.css`, `.ts`, `.vue`, `.svelte`, `.gql`, `.prisma`, `.cdk`.
@@ -13,4 +13,4 @@ I'm Sylvain (:seel-vahn), hands-on CTO and Product Engineer with 14+ years of ex
 
 ### Wanna Chat?
 
-@ me on [Twitter](https://twitter.com/_maoosi), message me on [LinkedIn](https://www.linkedin.com/in/sylvainsimao/), or [send me an email](https://sylvainsimao.com/contact). 
+@ me on [Twitter](https://twitter.com/Sylvain_Simao), message me on [LinkedIn](https://www.linkedin.com/in/sylvainsimao/), or [send me an email](https://sylvainsimao.com/contact). 
