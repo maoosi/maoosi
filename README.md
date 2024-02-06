@@ -1,6 +1,6 @@
 ### Hi 🖖
 
-I'm Sylvain (:seel-vahn), hands-on CTO and Product Engineer with 14+ years of experience building things for the web. Creator of the open-source ◭ [Prisma-AppSync](https://github.com/maoosi/prisma-appsync) library. Founder at [Kuizto](https://kuizto.co) (launching soon). Previously CTO at [Travis](https://www.travistravis.co/plan-a-trip); Tech. Director at [Clemenger BBDO](https://www.clemengerbbdo.com.au/).
+I'm Sylvain (:seel-vahn), hands-on CTO and Product Engineer with 15+ years of experience building things for the web. Creator of the open-source ◭ [Prisma-AppSync](https://github.com/maoosi/prisma-appsync) library. Founder at [Kuizto](https://kuizto.co) (launching soon). Previously CTO at [Travis](https://www.travistravis.co/plan-a-trip); Tech. Director at [Clemenger BBDO](https://www.clemengerbbdo.com.au/).
 
 - 🍉 Founder at [Kuizto](https://kuizto.co), kinda like Spotify or Netflix, but for your daily cooking!
 - ⚡️ Worked on a wide variety of projects with Airbnb, MARS, Amazon and [many other clients](https://sylvainsimao.com).
