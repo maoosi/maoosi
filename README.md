@@ -1,12 +1,12 @@
 ### Hi 🖖
 
-I'm Sylvain (:seel-vahn), hands-on CTO and Product Engineer with 15+ years of experience building things for the web. Creator of the open-source ◭ [Prisma-AppSync](https://github.com/maoosi/prisma-appsync) library. Founder at [Kuizto](https://kuizto.co) and [ImageBricks](https://imagebricks.io). Previously CTO at [Travis](https://www.travistravis.co/plan-a-trip); Tech. Director at [Clemenger BBDO](https://www.clemengerbbdo.com.au/).
+I'm Sylvain (:seel-vahn), Founding Engineer from Australia, with 15+ years of experience building for the web — partnering with startups and agencies worldwide.
 
-- 🍉 Founder at [Kuizto](https://kuizto.co), kinda like Spotify or Netflix, but for your daily cooking!
-- ⚡️ Worked on a wide variety of projects with Airbnb, MARS, Amazon and [many other clients](https://sylvainsimao.com).
-- 🧳 Previously CTO at [Travis](https://www.travistravis.co/plan-a-trip) an early-stage startup building a collaborative travel planning app.
-- 👨🏽‍💻 Interested in Full-stack web dev `.html`, `.js`, `.css`, `.ts`, `.vue`, `.svelte`, `.gql`, `.prisma`, `.cdk`.
+- 💪 Working on [Kuizto](https://kuizto.co) (Netflix-like feed for your daily cooking) and [Imagebricks](https://wt.ls/imagebricks) (Digital Assets Platform for the rest of us).
+- 🧳 Former CTO at [Travis](https://sylvainsimao.com/project/travis-travis/) (3 years) and ex-Technical Director at [Clemenger BBDO](https://www.clemengerbbdo.com.au/) (4 years).
 - 👾 Creator of the Open-Source [Prisma-AppSync](https://prisma-appsync.vercel.app) generator for ◭ Prisma (210+ stars).
+- 🧑‍💻 Tech stack includes SvelteKit, TailwindCSS, TypeScript, SQLite, Cloudflare, AWS.
+- ⚡️ Worked on a wide variety of projects with Airbnb, MARS, Amazon and [many other clients](https://sylvainsimao.com).
 - 💬 Co-organizer and main speaker at the Melbourne Vue.js Meetup from 2017 to 2021.
 - 🏆 Awarded by Cannes Lions Grand Prix, Global Amazon Alexa Cup, The FWA, Webby Awards.
 
