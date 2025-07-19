@@ -1,15 +1,31 @@
-### Hi 🖖
+## 🖖 Hi, I'm Sylvain (:seel-vahn)
 
-I'm Sylvain (:seel-vahn), Founding Engineer from Australia, with 15+ years of experience building for the web — partnering with startups and agencies worldwide.
+Product Engineer & Fractional CTO from Australia — 16+ years building the web with startups and agencies worldwide.
 
-- 💪 Working on [Kuizto](https://kuizto.co) (Netflix-like feed for your daily cooking) and [FloppyOS](https://floppyos.com) (Digital Assets Platform for small teams—like Google Drive on steroids).
-- 🧳 Former CTO at [Travis](https://sylvainsimao.com/project/travis-travis/) (3 years) and ex-Technical Director at [Clemenger BBDO](https://www.clemengerbbdo.com.au/) (4 years).
-- 👾 Creator of the Open-Source [Prisma-AppSync](https://prisma-appsync.vercel.app) generator for ◭ Prisma (210+ stars).
-- 🧑‍💻 Tech stack includes SvelteKit, TailwindCSS, TypeScript, SQLite, Cloudflare, AWS.
-- ⚡️ Worked on a wide variety of projects with Airbnb, MARS, Amazon and [many other clients](https://sylvainsimao.com).
-- 💬 Co-organizer and main speaker at the Melbourne Vue.js Meetup from 2017 to 2021.
-- 🏆 Awarded by Cannes Lions Grand Prix, Global Amazon Alexa Cup, The FWA, Webby Awards.
+Full portfolio at **[sylvainsimao.com](https://sylvainsimao.com)**.
 
-### Wanna Chat?
+## 👾 Projects
 
-@ me on [Bluesky](https://bsky.app/profile/sylvainsimao.com), message me on [LinkedIn](https://www.linkedin.com/in/sylvainsimao/), or [send me an email](https://sylvainsimao.com/contact). 
+- [Kuizto](https://kuizto.co) – Netflix-like feed for your daily cooking. *(Founder, Private Beta)*
+- [FloppyOS](https://floppyos.com) – Digital Assets Platform for small teams — like Google Drive on steroids. *(Founder, In Development)*
+- [BilateralStimulation](https://bilateralstimulation.io) – Tools for EMDR therapists: visual, auditory, and tactile BLS. *(Contributing Engineer)*
+
+## 🧪 Open Source
+
+- [Prisma-AppSync](https://prisma-appsync.vercel.app) – GraphQL API generator for ◭ Prisma + AppSync.
+- [otskit](https://github.com/maoosi/otskit) – Opinionated collection of TypeScript utility functions.
+
+## 👨‍💻 About Me
+
+- Former CTO at [Travis](https://sylvainsimao.com/project/travis-travis/) – Social travel planning platform. *(3 years)*
+- Ex-Technical Director at [Clemenger BBDO](https://www.clemengerbbdo.com.au/) – Top-ranking creative agency. *(4 years)*
+- Collaborated with **Airbnb**, **MARS**, **Amazon**, and [many others](https://sylvainsimao.com).
+- Fav stack: SvelteKit, TailwindCSS, TypeScript, Hono, Drizzle, SQLite, Cloudflare, AWS.
+- Co-organizer and main speaker at the Melbourne Vue.js Meetup from 2016 to 2021.
+- Awarded by The FWA, Webby, Developer Awwwards, CSS Design Awards, Cannes Lions.
+
+## 💬 Wanna Chat?
+
+- @ me on [Bluesky](https://bsky.app/profile/sylvainsimao.com)
+- Message me on [LinkedIn](https://www.linkedin.com/in/sylvainsimao/)
+- Or [send me an email](https://sylvainsimao.com/contact)
